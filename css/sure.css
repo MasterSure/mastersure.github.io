@@ -1,3 +1,12 @@
+#web_bg {
+  /* 背景图像的地址（url括号里）  */
+  background: url(https://github.com/MasterSure/mastersure.github.io/blob/master/img/%E6%88%BF%E9%97%B4.jpg);
+  /* 背景图像不重复 */
+  background-repeat: no-repeat;
+  /* 背景图像大小 */
+  background-size: cover;
+}
+
 #post a {
 	color: #49b1f5 !important
 }
