@@ -1,13 +1,6 @@
-#web_bg {
-  /* 背景图像的地址（url括号里）  */
-  background: url(https://pic.netbian.com/uploads/allimg/210408/180815-1617876495eeb6.jpg);
-  /* 背景图像不重复 */
-  background-repeat: no-repeat;
-  /* 背景图像大小 */
-  background-size: cover;
-}
 
-#post a {
+
+/* #post a {
 	color: #49b1f5 !important
 }
 
@@ -18,8 +11,8 @@
 .toc-link.active {
 	color: #fff !important
 }
-
-body * {
+ */
+/* body * {
 	cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/Jkll8I.png), auto !important
 }
 
@@ -225,4 +218,13 @@ h6:before {
 
 #subtitle:before {
 	/* background-color: rgba(0, 0, 0, 0) */
+}
+ */
+#web_bg {
+  /* 背景图像的地址（url括号里）  */
+  background: url(https://pic.netbian.com/uploads/allimg/210408/180815-1617876495eeb6.jpg);
+  /* 背景图像不重复 */
+  background-repeat: no-repeat;
+  /* 背景图像大小 */
+  background-size: cover;
 }
